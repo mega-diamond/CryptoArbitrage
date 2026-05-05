@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoArbitrage", "CryptoArbitrage\CryptoArbitrage.csproj", "{B4EADEDF-A1B3-4CEA-A626-39A5C8E672DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoArbitrageLibrary", "CryptoArbitrageLibrary\CryptoArbitrageLibrary.csproj", "{4B08B502-5CF8-43C8-850B-763B08174B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EADEDF-A1B3-4CEA-A626-39A5C8E672DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EADEDF-A1B3-4CEA-A626-39A5C8E672DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EADEDF-A1B3-4CEA-A626-39A5C8E672DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EADEDF-A1B3-4CEA-A626-39A5C8E672DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B08B502-5CF8-43C8-850B-763B08174B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B08B502-5CF8-43C8-850B-763B08174B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B08B502-5CF8-43C8-850B-763B08174B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B08B502-5CF8-43C8-850B-763B08174B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC10080-CDBE-43D0-996D-AC98625EDC35}
+	EndGlobalSection
+EndGlobal
